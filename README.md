@@ -3,9 +3,9 @@
 
 -Summarization (plot synopsis, themes, mood and ending, character descriptions);
 
--Tweaking of model for voice improvement;
+-Tweaking of audiobook model for voice improvement;
 
--Tweaking of model for music improvement;
+-Tweaking of audiobook model for music improvement;
 
 -Testing of pretrained models for visualizations.
 
