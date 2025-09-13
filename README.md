@@ -9,4 +9,5 @@
 
 -Testing of pretrained models (audiobook + summarization) for visualizations.
 
+Project Artifacts (Minutes, Outline):
 https://drive.google.com/drive/folders/1fKj0Pe_akF80EAYuWFXY3vHG6jyLOoiT?usp=sharing
